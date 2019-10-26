@@ -349,6 +349,6 @@ component `org.wso2.carbon.identity.api.server.<resource>.common` for your resou
    
 You may add this common component in both the api version specific components as dependency and reuse.
 
-#### How to expose the API in  WSO2 Identity Server
+#### How to expose the API in WSO2 Identity Server
 
 To integrate the API implemented in identity-api-server in a single web app , follow the steps in https://github.com/wso2/identity-rest-dispatcher/blob/master/README.md
